@@ -22,4 +22,21 @@ Vavavoom is a custom-designed USB-C MIDI keypad built for interactive music crea
 
 
 ## Bill of Materials
-See [bom.csv](bom.csv)
+
+| Designator | Footprint | Quantity | Value | Total Cost |
+|------------|-----------|----------|-------|------------|
+| D1, D2, D3 | LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount | 3 | SK6812MINI-E | $3.36 |
+| J1 | Capacitive Keys | 1 | Capacitive Touch Buttons | |
+| RV1, RV2 | Potentiometer_Bourns_PTA1543_Single_Slide | 2 | Slider | $3.16 |
+| SW1, SW2, SW3 | Kailh Choc Low-Profile Switches | 3 | SW_Push | $6.04 |
+| SW4 | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | 1 | RotaryEncoder_Switch_MP | $1.44 |
+| U1 | Waveshare ESP32-S3-Zero | 1 | Waveshare ESP32-S3-ZERO | $6.62 |
+
+### Totals
+
+| Vendor | Cost |
+|--------|------|
+| AliExpress | $19.59 |
+| DigiKey | $12.35 |
+| JLCPCB | $12.29 |
+| **Total** | **$44.23** |
