@@ -15,10 +15,11 @@ Vavavoom is a custom-designed USB-C MIDI keypad built for interactive music crea
 <img width="1258" height="850" alt="vavavoom_schematic" src="https://github.com/user-attachments/assets/0b4b344a-a6a7-40ce-91fd-0e0031dfb58e" />
 
 ## PCB
-![Component placement](<Screenshot (476).png>)<img width="981" height="805" alt="vavavoom_pcb" src="https://github.com/user-attachments/assets/e69e090c-fc9c-4ba4-88e8-52b6adc20b47" />
+<img width="981" height="805" alt="vavavoom_pcb" src="https://github.com/user-attachments/assets/e69e090c-fc9c-4ba4-88e8-52b6adc20b47" />
 
 ## 3D view
-![Component placement](<Screenshot (475).png>)
+<img width="967" height="859" alt="Screenshot 2026-11-02 182628" src="https://github.com/user-attachments/assets/4beb2a65-b567-4571-a4c1-b7add3a25328" />
+
 
 ## Bill of Materials
 See [bom.csv](bom.csv)
